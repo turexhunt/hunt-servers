@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "HoneyWorld",
+      "ip": "mc.honeyworld.su",
+      "acceptedTextures": 1,
+      "order": 0,
+      "enabled": true
+    }
+  ]
+}
